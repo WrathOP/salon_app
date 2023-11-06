@@ -16,7 +16,7 @@ To get started with the Salon App, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/WrathOP/salon-app.git
+   git clone https://github.com/WrathOP/salon_app.git
    cd salon-app
 
 2. **Install the Flutter SDK & Dart:**
