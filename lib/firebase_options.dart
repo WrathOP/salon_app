@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCglqlRkjjYoAOGaWqSPnjITYmEDPf5DoU',
+    apiKey: 'Add your api key',
     appId: '1:264437553349:web:b4a427a9b054f3676ab8ac',
     messagingSenderId: '264437553349',
     projectId: 'salon-app-6a029',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD89R3v4j9EbgFFJMESsyzojGI0luK9WsM',
+    apiKey: 'Add your api key',
     appId: '1:264437553349:android:1346fa671a9624df6ab8ac',
     messagingSenderId: '264437553349',
     projectId: 'salon-app-6a029',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAmhc2VtQAoutm8Mk4yv23oOxFlRfVHLxg',
+    apiKey: 'Add your api key',
     appId: '1:264437553349:ios:24bb58449d493d0d6ab8ac',
     messagingSenderId: '264437553349',
     projectId: 'salon-app-6a029',
